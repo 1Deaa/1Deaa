@@ -8,7 +8,7 @@
 
 - [x] C++ 
 - [ ] Java ☕
-- [ ] Tawjihi 📚
+- [x] Tawjihi 📚
 - [ ] College 🎓
 
 

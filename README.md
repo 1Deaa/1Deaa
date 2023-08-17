@@ -3,7 +3,7 @@
 
 - **Hi I'm 1Deaa** ⚡
 - **I'm Interested in C++ and Java** 🪐
-- **Currently studying Tawjihi** 📚
+- **succeeded in tawjihi 94.15%** 📚
 - **HylexMC Builder** 🧱
 
 - [x] C++ 
